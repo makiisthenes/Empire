@@ -16,3 +16,4 @@ cryptography
 pyminifier==2.1
 xlutils
 pycrypto
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
