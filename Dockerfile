@@ -19,7 +19,7 @@
 # -----BUILD ENTRY-----
 
 # image base
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20201014
 
 # pull from BUILD
 ARG empirversion
